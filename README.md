@@ -4,10 +4,11 @@
 
 This dashboard provides insights into pizza sales data from January 2020 to December 2020.
 
-
-
 [Pizza Sales Report Dashboard.pdf](https://github.com/user-attachments/files/19463074/Pizza.Sales.Report.Dashboard.pdf)
-![image](https://github.com/user-attachments/assets/92df47cc-19bf-4ca1-8b3e-f8e0c611d209)
+
+![image](https://github.com/user-attachments/assets/0f5713fe-7dd5-48f4-8946-7ac88fffb65f)
+![image](https://github.com/user-attachments/assets/b85591cf-de20-4a23-b1a7-7904d519cab5)
+
 
 
 ## Overview
@@ -65,3 +66,60 @@ The report includes several tables providing detailed data:
 * Bottom 5 pizzas by Revenue [cite: 4]
 * Bottom 5 pizzas by Quantity [cite: 4, 8, 9]
 * Bottom 5 pizzas by Total Orders [cite: 4, 10, 11, 12, 13]
+-----------------------------------------------------------------------------------------------------------------------------
+
+# Blinkit Report Dashboard
+
+This dashboard provides insights into Blinkit data, an India's last-minute app.
+
+[Blinkit Report Dashboard.pdf](https://github.com/user-attachments/files/19466584/Blinkit.Report.Dashboard.pdf)
+
+![image](https://github.com/user-attachments/assets/8f4db8f7-90b5-4b86-9269-22de995cbe83)
+
+## Overview
+
+The dashboard analyzes key metrics such as total sales, number of items, average sales, and average rating. It also provides information on outlet establishment, sales by outlet type, and item type.
+
+## Key Metrics
+
+* **Total Sales:** \$1.20M [cite: 1]
+* **No of Items:** 8523 [cite: 1]
+* **Average Sales:** \$141 [cite: 1]
+* **Average Rating:** 3.9 [cite: 1]
+
+## Filters
+
+The dashboard includes filter panels for:
+
+* Outlet Location Type [cite: 1]
+* Outlet Size [cite: 1]
+* Item Type [cite: 1]
+
+## Outlet Establishment
+
+* The dashboard includes a chart showing outlet establishment trends from 2012 to 2022, with sales values for specific years (e.g., \$78K in 2012, \$205K in 2022)[cite: 1].
+
+## Sales Performance
+
+* **Sales by Outlet Type:** Supermarket Type1 has the highest total sales (\$787.55K), followed by Grocery Store (\$151.94K), Supermarket Type3 (\$130.71K), and Supermarket Type2 (\$131.48K)[cite: 2].
+* The table below shows sales performance by outlet type:
+
+    | Outlet Type       | Total Sales | No. of Items | Average Sales | Avg Rating | Item Visibility |
+    | :---------------- | :---------- | :----------- | :------------ | :--------- | :-------------- |
+    | Supermarket Type1 | \$787.55K   | 5577         | \$141         | 4          | 0.06            |
+    | Grocery Store     | \$151.94K   | 1083         | \$140         | 4          | 0.10            |
+    | Supermarket Type3 | \$130.71K   | 935          | \$140         | 4          | 0.06            |
+    | Supermarket Type2 | \$131.48K   | 928          | \$142         | 4          | 0.06            |
+
+## Fat Content
+
+* Sales by fat content are categorized as Low Fat (\$444.79K) and Regular (\$507.90K)[cite: 1].
+
+## Sales by Outlet Size and Location
+
+* **Outlet Size:** Sales by outlet size are shown for Medium (\$248.99K), Small (\$393.15K), and High (\$472.13K)[cite: 1].
+* **Outlet Location:** Sales by outlet location are shown for Tier 3 (71.3%), Tier 2, and Tier 1 (\$336.40K)[cite: 1].
+
+## Item Type
+
+* The dashboard includes a table listing various item types, including Meat, Household, Canned, Baking, Others, Health, Frozen, Dairy, Fruits and Vegetables, Seafood, Starchy, Snack Foods, Breakfast, Soft Drinks, Hard Drinks, and Breads[cite: 3, 4, 5].
