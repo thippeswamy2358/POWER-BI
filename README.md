@@ -4,6 +4,12 @@
 
 This dashboard provides insights into pizza sales data from January 2020 to December 2020.
 
+
+
+[Pizza Sales Report Dashboard.pdf](https://github.com/user-attachments/files/19463074/Pizza.Sales.Report.Dashboard.pdf)
+![image](https://github.com/user-attachments/assets/92df47cc-19bf-4ca1-8b3e-f8e0c611d209)
+
+
 ## Overview
 
 The dashboard analyzes key metrics such as total revenue, average order value, total pizza sold, and total orders. It also provides details on best/worst selling pizzas, sales performance by category and size, and busiest days and times for orders.
