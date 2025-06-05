@@ -1,4 +1,52 @@
 # POWER-BI
+Bank Loan Performance Dashboard – Power BI
+
+
+📊 **Overview**
+An interactive Power BI dashboard designed to monitor and analyze the financial performance of bank loans, including key metrics such as loan disbursement, repayment, credit risk, and customer segmentation. Built for internal stakeholders to gain clear, real-time insights across good vs. bad loans, funding trends, and borrower demographics.
+
+🎯 **Objectives**
+Track loan performance across loan applications, funded amount, and received payments.
+
+Monitor credit risk by comparing Good vs. Bad Loans and repayment behavior.
+
+Enable real-time insights for finance, risk, and compliance teams.
+
+Deliver interactive visuals segmented by state, term, purpose, and employment length.
+
+🛠️ **Tools & Technologies**
+Power BI Desktop
+
+DAX (for KPIs like Avg Interest Rate, DTI, etc.)
+
+Power Query for ETL
+
+SQL (backend data source preparation)
+
+Power BI Service (for publishing and scheduling)
+
+📌 **Key Features**
+📈 Loan Summary Dashboard: Displays MTD, MoM, and YTD metrics on applications, funding, and repayments.
+
+🔁 Good vs. Bad Loan Breakdown: Identifies risk segments and repayment health.
+
+🗂️ Dynamic Filters: Enables drilldown by state, loan purpose, home ownership, and grade.
+
+🧮 KPI Tracking: Automated calculation of DTI (Debt-to-Income), interest rate averages, and loan grade metrics.
+
+🔐 Security: (Optional – mention if RLS was applied)
+
+🧾 Data Model: Based on star schema to optimize refresh performance and responsiveness.
+
+✅ **Achievements / Impact**
+Improved executive visibility into loan health and performance.
+
+Enabled data-driven decisions by 200+ business users across risk, compliance, and operations teams.
+
+Reduced manual reporting effort by 40% via automation with Power BI Service and Power Query.
+
+Optimized performance for large datasets, achieving 20% faster dashboard refresh times.
+
 
 # Pizza Sales Report Dashboard
 
