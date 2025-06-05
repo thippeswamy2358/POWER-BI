@@ -1,6 +1,12 @@
 # POWER-BI
 Bank Loan Performance Dashboard – Power BI
+https://github.com/thippeswamy2358/POWER-BI/blob/main/Bank%20Dashboard.pdf
 
+<img width="631" alt="Bank" src="https://github.com/user-attachments/assets/90ae0fbb-fc89-419e-9f13-d1febc3511eb" />
+
+<img width="632" alt="Bank 1" src="https://github.com/user-attachments/assets/44662cd6-2efc-403f-956e-73e1a4cddb92" />
+
+<img width="632" alt="Bank 2" src="https://github.com/user-attachments/assets/bfe5b5bd-f6c8-46af-be70-6c6757fa5146" />
 
 📊 **Overview**
 An interactive Power BI dashboard designed to monitor and analyze the financial performance of bank loans, including key metrics such as loan disbursement, repayment, credit risk, and customer segmentation. Built for internal stakeholders to gain clear, real-time insights across good vs. bad loans, funding trends, and borrower demographics.
